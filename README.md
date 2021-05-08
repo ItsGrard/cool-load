@@ -1,3 +1,3 @@
 # This is a loading screen for FiveM
 
-# https://forum.cfx.re/uploads/default/original/4X/b/6/9/b694f3fd1f707be750bd4a12c2c46c5e808303f2.jpeg
+![image](https://user-images.githubusercontent.com/81840648/117547517-f829ae80-affd-11eb-9d31-93f4840f34b2.png)
