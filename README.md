@@ -4,7 +4,7 @@
 
 
 # Update v1:
-# + Particles move around the screen.
++ Particles move around the screen.
 
-# Future Updates:
-# + Music
+Future Updates:
++ Music
