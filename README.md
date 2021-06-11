@@ -5,6 +5,8 @@
 
 # Update v1:
 + Particles move around the screen.
+# Update v1.1:
++ Background music added.
 
 # Future Updates:
-+ Music
+
