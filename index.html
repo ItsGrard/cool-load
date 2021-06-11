@@ -7,6 +7,7 @@
 </head>
 <body>
 <!-- partial:index.partial.html -->
+
 <div class="overlay"></div>
 <div class="stars" aria-hidden="true"></div>
 <div class="starts2" aria-hidden="true"></div>
@@ -14,11 +15,24 @@
 <main class="main">
 	<section class="contact">
 		<h1 class="title">Server Name</h1> <!-- config server name here -->
-		<h2 class="sub-title">Discord</h2> <!-- config discord link here -->
+		<h2 class="sub-title">discord</h2> <!-- config discord link here -->
 	</section>
+
+<div>
+	<audio volume='50.0' autoplay> <!-- Add "controls" after autoplay to display controls, CSS of this not done, dont think anyone would want that since it breaks the esthetics -->
+		<source src="audio.mp3" type="audio/mpeg"> <!-- Insert an .mp3 file in root directory and replace "audio.mp3" with your audio name file, use mp3 or research about audio formats in html -->
+			<!-- Your audio.mp3 file MUST BE in the same directory as your .html, if you want it to be in a different dir use relative or absolute path such as "music/loadingMusic/audio.mp3" -->
+	</audio> 
+</div>
+
+
 </main>
+
 <!-- partial -->
   <script  src="./script.js"></script>
 
 </body>
+
 </html>
+
+
